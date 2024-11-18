@@ -133,14 +133,18 @@ html,body{
 }
 
 .css-1xp5r68-MuiFormControl-root-MuiTextField-root {
-  width: 90% !important;
+  width: 60% !important;
 }
-
+/*
 .css-quhxjy-MuiInputBase-root-MuiOutlinedInput-root {
   border-radius: 25px !important;
-}
+} */
+
+/* .css-1pv2xcc {
+  min-width:auto !important;
+} */
 .css-1lmyo7x {
-  max-width: min-content;
+  max-width: min-content !important;
 }
 /* google css */
 
