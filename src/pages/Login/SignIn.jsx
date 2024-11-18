@@ -122,8 +122,6 @@ const SignIn = () => {
   const handleInputFocus = () => {
     setErrorMessage('');
   };
-
-  // forgetpassword
   
 
   return (
@@ -133,6 +131,7 @@ const SignIn = () => {
           <Box
             sx={{
               height: '100vh',
+              width:'50vw',
               backgroundImage: `url(${login})`,
               backgroundSize: 'cover',
               backgroundPosition: 'center',
