@@ -142,7 +142,7 @@ const SignIn = () => {
 
         <Grid item xs={12} md={5} class="flex items-center justify-center p-0 ml-2">
           <Box mt={5} px={3} display="flex" alignItems="center" height="100%">
-            <Box width="50vw" maxWidth='sm' border='2px solid black'>
+            <Box  maxWidth='sm' border='2px solid black'>
               <Typography variant="h3" align="start" gutterBottom>
                 Sign In
               </Typography>
