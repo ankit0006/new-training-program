@@ -139,7 +139,9 @@ html,body{
 .css-quhxjy-MuiInputBase-root-MuiOutlinedInput-root {
   border-radius: 25px !important;
 }
-
+.css-1lmyo7x {
+  max-width: min-content;
+}
 /* google css */
 
 .nsm7Bb-HzV7m-LgbsSe {
